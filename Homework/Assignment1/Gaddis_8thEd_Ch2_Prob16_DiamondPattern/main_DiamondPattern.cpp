@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
  * Author: Elise Chue
- * Created on June 20, 2016, 12:27 PM
- * Purpose: Finding Average
+ * Created on June 23, 2016, 2:46 PM
+ * Purpose: Display Diamond Pattern
  */
 
 //System Libraries
@@ -18,17 +18,21 @@ using namespace std;//Iostream uses the standard namespace
 //Execution Begins Here!
 int main(int argc, char** argv) {
     //Declare variables, no doubles
-    char avg=(x=32)//character number
-    int x//integer number
+    //no variables. this is ASCII art  
     
     //Input data
-    avg=(x1+x2+x3+x4+x5)/5
-    
+
     // Process data
     
     //Output data
+    cout<<"   *   "<<endl;
+    cout<<"  ***  "<<endl;
+    cout<<" ***** "<<endl;
+    cout<<"*******"<<endl;
+    cout<<" ***** "<<endl;
+    cout<<"  ***  "<<endl;
+    cout<<"   *   "<<endl;
  
-    
     //Exit Stage Right!
     return 0;
 }
