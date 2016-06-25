@@ -1,8 +1,8 @@
 /* 
  * File:   main.cpp
  * Author: Elise Chue
- * Created on June 20, 2016, 12:27 PM
- * Purpose: Template
+ * Created on June 23, 2016, 6:23 PM
+ * Purpose: Calculating Miles Per Gallon
  */
 
 //System Libraries
@@ -17,14 +17,19 @@ using namespace std;//Iostream uses the standard namespace
 
 //Execution Begins Here!
 int main(int argc, char** argv) {
-    //Declare variables, no doubles
+    //Declare variables, no doubles!!!
+    float gal=15;//Amount of gallons this car holds
+    float miles=375;//distance in miles before needing to refuel
+    float mpg;//Miles per gallon, to be determined
     
     //Input data
 
     //Process data
+    mpg=miles/gal;
     
     //Output data
-    
+    cout<<"This car gets "<<mpg<<" miles per gallon."<<endl;
+            
     //Exit Stage Right!
     return 0;
 }
