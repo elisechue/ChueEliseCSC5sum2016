@@ -1,5 +1,5 @@
 /* 
- * File:   CBProfit (main.cpp)
+ * File:   main_CBProfit.cpp
  * Author: Elise Chue
  * Created on June 21, 2016 1:09pm
  * Purpose: Determine profit selling circuit board
@@ -29,6 +29,7 @@ int main(int argc, char** argv) {
     selPrce=cost*profit+cost;
     int pennies=selPrce*100+0.5;//Shift into pennies add a half to round
             selPrce=pennies/100.0f;
+            
     //Output data
     cout<<"Cost of circuit to the company = $"<<cost<<endl;
     cout<<"Profit desired on cicuit board = $"<<profit*100<<"%"<<endl;

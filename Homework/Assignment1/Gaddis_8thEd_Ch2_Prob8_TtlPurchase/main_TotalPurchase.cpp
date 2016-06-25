@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     cout<<endl;
     cout<<"Cart Subtotal = $"<<subTtl<<endl;
     cout<<"Sales Tax is "<<sTax*100<<"%"<<endl;//for proper notation
-    cout<<setprecision(4)<<endl;//shows rounded pennies in total
+    cout<<setprecision(4)<<endl;//shows rounded pennies in the total
     cout<<"Total Price = $"<<ttlPrce<<endl;
     
     //Exit Stage Right!
