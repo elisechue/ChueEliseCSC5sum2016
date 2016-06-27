@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=firstvariable
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/firstvariable
+CND_ARTIFACT_NAME_Debug=gaddis_8thed_ch3_prob2_stadiumseating
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/gaddis_8thed_ch3_prob2_stadiumseating
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=firstvariable.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/firstvariable.tar
+CND_PACKAGE_NAME_Debug=gaddis8thedch3prob2stadiumseating.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/gaddis8thedch3prob2stadiumseating.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=firstvariable
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/firstvariable
+CND_ARTIFACT_NAME_Release=gaddis_8thed_ch3_prob2_stadiumseating
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/gaddis_8thed_ch3_prob2_stadiumseating
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=firstvariable.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/firstvariable.tar
+CND_PACKAGE_NAME_Release=gaddis8thedch3prob2stadiumseating.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/gaddis8thedch3prob2stadiumseating.tar
 #
 # include compiler specific variables
 #

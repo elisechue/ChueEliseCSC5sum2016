@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=FirstVariable
+PROJECTNAME=Gaddis_8thEd_Ch3_Prob2_StadiumSeating
 
 # Active Configuration
 DEFAULTCONF=Debug

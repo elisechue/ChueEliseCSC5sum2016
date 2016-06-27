@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=FirstVariable
+PROJECTNAME=Savitch_9thEd_Ch2_Prob9_Sum10
 
 # Active Configuration
 DEFAULTCONF=Debug
